@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Computer Science Student & Software Developer
 
 Focusing on language design, backend systems, and applied algorithms. 
