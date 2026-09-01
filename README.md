@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**PuggyPotato/PuggyPotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computer Science Student & Software Developer
 
-Here are some ideas to get you started:
+Focusing on language design, backend systems, and applied algorithms. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Active Development
+***
+* **Potatolang:** A custom functional programming language interpreter built from scratch in Go. Core evaluation is operational; currently engineering the memory model to support hash maps and array reassignment.
+* **AI Companion:** Architecting and developing an intelligent, interactive companion system.
+
+### Technical Stack
+***
+| Competency | Languages |
+| :--- | :--- |
+| **Primary** | Go, Python |
+| **Familiar** | TypeScript, JavaScript, Java |
+
+> Building systems with an emphasis on clean architecture and predictable logic.
