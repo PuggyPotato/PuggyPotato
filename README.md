@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:DDF6FF,50:A9DEF4,100:6CBCE5&height=190&section=header&text=Hi,%20I'm%20Qing%20Yau%20%E2%9C%A6&fontSize=38&fontColor=17415E&fontAlignY=42&desc=Computer%20science%20student%20%E2%80%A2%20Building%20with%20Go&descSize=18&descColor=28658A&descAlignY=66" width="100%" alt="Hi, I'm Qing Yau — computer science student building with Go" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:17638F,50:2C8FBE,100:69BCE2&height=190&section=header&text=Hi,%20I'm%20Qing%20Yau%20%E2%9C%A6&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=Computer%20science%20student%20%E2%80%A2%20Building%20with%20Go&descSize=18&descColor=EAF9FF&descAlignY=66" width="100%" alt="Hi, I'm Qing Yau — computer science student building with Go" />
 
 <br />
 
