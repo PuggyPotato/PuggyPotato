@@ -1,70 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1a2332,100:2d4a5e&height=180&section=header&text=Computer%20Science%20Student%20%26%20Software%20Developer&fontSize=28&fontColor=E8EEF2&animation=fadeIn&fontAlignY=45&desc=Language%20design%20%C2%B7%20Backend%20systems%20%C2%B7%20Applied%20algorithms&descAlignY=65&descSize=16&descColor=9BB0C0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:DDF6FF,50:A9DEF4,100:6CBCE5&height=190&section=header&text=Hi,%20I'm%20Qing%20Yau%20%E2%9C%A6&fontSize=38&fontColor=17415E&fontAlignY=42&desc=Computer%20science%20student%20%E2%80%A2%20Building%20with%20Go&descSize=18&descColor=28658A&descAlignY=66" width="100%" alt="Hi, I'm Qing Yau — computer science student building with Go" />
+
+<br />
+
+<a href="https://puggypotato.com"><img src="https://img.shields.io/badge/Portfolio-2589C1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/qing-yau-tang-aa5475327/"><img src="https://img.shields.io/badge/LinkedIn-2589C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
-<br/>
+<br />
 
-## Active Development
-***
+I like building things that help me understand how software works, from programming languages to small backend tools. **Go is my main language**, and I enjoy turning curious ideas into working projects.
+
+## ✦ Featured work
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Potatolang
-A custom functional programming language interpreter, built from scratch in Go.
-
-**Status:** Core evaluation operational, currently engineering the memory model to support hash maps and array reassignment.
-
-`Go` `Lexer` `Parser` `AST` `Evaluator`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Companion
-Architecting and developing an intelligent, interactive companion system.
-
-**Status:** Early architecture phase.
-
-`Go` `Wails` `Ollama`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🥔 Potatolang</h3>
+      <p>A programming language interpreter I'm building from scratch in Go. The lexer, parser, AST, and evaluator are working; I'm now improving its data handling and reassignment.</p>
+      <p><code>Go</code> <code>Language design</code> <code>Interpreter</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://puggypotato.com/assets/niru-portrait.png" width="84" align="right" alt="Niru character" />
+      <h3>✦ Niru</h3>
+      <p>A local AI companion I'm developing with Go, Wails, and Ollama. It's an early project where I'm exploring interaction design and how a private, desktop companion should work.</p>
+      <p><code>Go</code> <code>Wails</code> <code>Ollama</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🔗 URL Shortener</h3>
+      <p>A Go backend that turns long links into short ones. You can try the live tool on <a href="https://puggypotato.com/#projects">my portfolio</a>.</p>
+      <p><code>Go</code> <code>Web API</code> <code>Live demo</code></p>
+    </td>
+  </tr>
 </table>
 
-<br/>
+## ⚙️ Tools I use
 
-## Technical Stack
-***
+**Mainly:** Go · Python  
+**Also worked with:** TypeScript · JavaScript · Java
 
-<div align="left">
-
-**Primary**
-<br/>
-<img src="https://skillicons.dev/icons?i=go,py&theme=dark" />
-
-**Familiar**
-<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,java&theme=dark" />
-
-</div>
-
-<br/>
-
-> Building systems with an emphasis on clean architecture and predictable logic.
-
-<br/>
-
-## Connect
-***
+<br />
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-1a2332?style=for-the-badge&logo=gmail&logoColor=E8EEF2)](mailto:me@placeholder.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a2332?style=for-the-badge&logo=linkedin&logoColor=E8EEF2)](https://linkedin.com/in/placeholder)
+<strong>See the projects in action → <a href="https://puggypotato.com">puggypotato.com</a></strong>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:2d4a5e,100:1a2332&height=100&section=footer" width="100%"/>
